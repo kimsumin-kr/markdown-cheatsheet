@@ -91,14 +91,20 @@ at the end of the first line.
 
 
 # Mentioning people and teams
+@github/support What do you think about these updates?
 
 
-Referencing issues and pull requests
-Rferencing external resources
-Uploading assets
-Using emojis
-Paragraphs
-Footnotes
+# Using emojis
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+
+# Paragraphs
+You can create a new paragraph by leaving a blank line between lines of text.
+
+
+# Footnotes
+
+
 Alerts
 Hiding content with comments
 Ignoring Markdown formatting
