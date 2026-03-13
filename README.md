@@ -111,8 +111,31 @@ A footnote can also have multiple lines[^2].
 [^2]: To add line breaks within a footnote, add 2 spaces to the end of a line.  
 This is a second line.
 
-Alerts
-Hiding content with comments
-Ignoring Markdown formatting
-Disabling Markdown rendering
-Further reading
+
+# Alerts
+> [!NOTE]
+> Useful information that user should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+
+# Hiding content with comments
+<!-- This content will not appear in the rendered Markdown -->
+
+
+# Ignoring Markdown formatting
+Let's rename \*our-new-project\* to \*our-old-project\*.
+
+
+## References
+- [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
