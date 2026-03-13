@@ -60,11 +60,39 @@ at the end of the first line.
 
 
 # Images
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
-Lists
-Task lists
-Mentioning people and teams
+# Lists
+- George Washington
+* John Adams
++ Thomas Jeffereson
+
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+
+# Nested Lists
+1. First list item
+   - First nested list item
+     - Second nested list item
+
+100. First list item
+     - First nested list item
+       - Second nested list item
+
+
+# Task lists
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+- [ ] \(Optional) Open a followup issue
+
+
+# Mentioning people and teams
+
+
 Referencing issues and pull requests
 Rferencing external resources
 Uploading assets
