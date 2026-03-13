@@ -78,7 +78,7 @@ at the end of the first line.
    - First nested list item
      - Second nested list item
 
-100. First list item
+100. Second list item
      - First nested list item
        - Second nested list item
 
