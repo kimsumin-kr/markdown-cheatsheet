@@ -165,8 +165,33 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 | Backtick | `         |
 | Pipe     | \|        |
 
+## Collapsed sections
+
+<details>
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+puts "Hello World"
+```
+
+</details>
+
+<details open>
+<summary>Label</summary>
+
+Body
+
+</details>
+
 ---
 ## References
 
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
 - [Working with advanced formatting/Organizing infromation with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+- [Work with advanced formatting/Organizing information with collapsed sections](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections)
