@@ -189,9 +189,24 @@ Body
 
 </details>
 
+# Code blocks
+
+````
+```
+Look! You can see my backticks.
+```
+````
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello Word!")
+puts markdown.to_html
+```
+
 ---
 ## References
 
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
 - [Working with advanced formatting/Organizing infromation with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 - [Work with advanced formatting/Organizing information with collapsed sections](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections)
+- [Working with advanced formatting/Creating and highlighting code blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
